@@ -1,5 +1,5 @@
 # volentixevm
-susbtrate node
+susbstrate node
 
 ## cargo build --release
 
